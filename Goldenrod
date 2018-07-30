@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Goldenrod</title>
+
+
+  <link href="css/bx.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link href="css/animate.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet" />
+
+  </head>
+  <body>
+	<header id="header">
+    <div class="sosial_media">
+      <div class="social-icon">
+        <a href="#"> &nbsp;<img src="icon/facebook.png"alt="facebook" height="25">&nbsp; </a>
+        <a href="#"> &nbsp;<img src="icon/twitter.png"alt="twitter" height="25">&nbsp;</a>
+        <a href="#"> &nbsp;<img src="icon/instagram.png"alt="instagram" height="25">&nbsp;</a>
+        <a href="#"> &nbsp;<img src="icon/behance.png"alt="behance" height="25">&nbsp; </a>
+        <a href="#"> &nbsp;<img src="icon/dribbble.png"alt="dribbble" height="25">&nbsp; </a>
+        <a href="#"> &nbsp;<img src="icon/vk.png"alt="vk" height="25">&nbsp; </a>
+      </div>
+    </div>
+
+        <nav class="navbar navbar-default navbar-static-top" role="banner">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                <div id="title_h1">
+                <div class="navbar-brand">
+      						<a href="index.html"><h1>Goldenrod</h1></a>
+      					</div>
+              </div>
+              </div>
+      <div id="menus">
+        <div class="navbar-collapse collapse">
+					<div class="menu">
+						<ul class="nav nav-tabs" role="tablist">
+							<li role="presentation"><a href="index.html" class="active">Home</a></li>
+							<li role="presentation"><a href="about.html">About Us</a></li>
+							<li role="presentation"><a href="services.html">Services</a></li>
+							<li role="presentation"><a href="portfolio.html">Portfolio</a></li>
+							<li role="presentation"><a href="contact.html">Contact</a></li>
+              <li role="presentation"><a href="#">register</a></li>
+              <li role="presentation"><a href="#">Login</a></li>
+						</ul>
+					</div>
+				</div>
+      </div>
+      </div><!--/.container-->
+        </nav><!--/nav-->
+    </header><!--/header-->
+
+	<div class="slider">
+		<div id="about-slider">
+			<div id="carousel-slider" class="carousel slide" data-ride="carousel">
+				<!-- Indicators -->
+				<ol class="carousel-indicators visible-xs">
+					<li data-target="#carousel-slider" data-slide-to="0" class="active"></li>
+					<li data-target="#carousel-slider" data-slide-to="1"></li>
+					<li data-target="#carousel-slider" data-slide-to="2"></li>
+				</ol>
+
+				<div class="carousel-inner">
+					<div class="item active">
+						<img src="img/1.jpg" class="img-responsive" alt="">
+						<div class="carousel-caption">
+							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
+								<h2><span>Grapick Design</span></h2>
+							</div>
+							<div class="col-md-10 col-md-offset-1">
+								<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.6s">
+									<p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+								</div>
+							</div>
+							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
+								<form class="form-inline">
+									<div class="form-group">
+										<button type="livedemo" name="Live Demo" class="btn btn-primary btn-lg" required="required">Live Demo</button>
+									</div>
+									<div class="form-group">
+										<button type="getnow" name="Get Now" class="btn btn-primary btn-lg" required="required">Get Now</button>
+									</div>
+								</form>
+							</div>
+						</div>
+				    </div>
+
+				    <div class="item">
+						<img src="img/1.jpg" class="img-responsive" alt="">
+						<div class="carousel-caption">
+							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="1.0s">
+								<h2>Typography</h2>
+							</div>
+							<div class="col-md-10 col-md-offset-1">
+								<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.6s">
+									<p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+								</div>
+							</div>
+							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="1.6s">
+								<form class="form-inline">
+									<div class="form-group">
+										<button type="livedemo" name="purchase" class="btn btn-primary btn-lg" required="required">Live Demo</button>
+									</div>
+									<div class="form-group">
+										<button type="getnow" name="subscribe" class="btn btn-primary btn-lg" required="required">Get Now</button>
+									</div>
+								</form>
+							</div>
+						</div>
+				    </div>
+				    <div class="item">
+						<img src="img/1.jpg" class="img-responsive" alt="">
+						<div class="carousel-caption">
+							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
+								<h2>Calygraphy</h2>
+							</div>
+							<div class="col-md-10 col-md-offset-1">
+								<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.6s">
+									<p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+								</div>
+							</div>
+							<div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.9s">
+								<form class="form-inline">
+									<div class="form-group">
+										<button type="livedemo" name="purchase" class="btn btn-primary btn-lg" required="required">Live Demo</button>
+									</div>
+									<div class="form-group">
+										<button type="getnow" name="subscribe" class="btn btn-primary btn-lg" required="required">Get Now</button>
+									</div>
+								</form>
+							</div>
+						</div>
+				    </div>
+				</div>
+
+				<a class="left carousel-control hidden-xs" href="#carousel-slider" data-slide="prev">
+					<i class="fa fa-angle-left"></i>
+				</a>
+
+				<a class=" right carousel-control hidden-xs"href="#carousel-slider" data-slide="next">
+					<i class="fa fa-angle-right"></i>
+				</a>
+			</div> <!--/#carousel-slider-->
+		</div><!--/#about-slider-->
+	</div><!--/#slider-->
+
+	<div class="about">
+		<div class="container">
+			<div class="text-center">
+				<h2>Quaerat quod voluptate consequuntur </h2>
+				<div class="col-md-10 col-md-offset-1">
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat quod voluptate consequuntur ad quasi,
+					dolores obcaecati ex aliquid, dolor provident accusamus omnis dolorum ipsam. Voluptatem ipsum expedita, corporis facilis laborum asperiores nostrum!
+					Amet porro numquam ratione temporibus quia dolorem sint lorem voluptates quasi mollitia.</p>
+				</div>
+
+				<div class="col-md-6 col-sm-6 col-xs-6">
+					<div class="btn-gamp"><a href="#">Learn More</a></div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-xs-6">
+					<div class="gamp-btn"><a href="#">download</a></div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<hr>
+
+	<div class="services">
+		<div class="container">
+			<div class="text-center">
+				<h2>consectetur adipisicing elit</h2>
+			</div>
+			<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<i class="fa fa-heart-o"></i>
+				<h3>Full Design</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum nam numquam voluptates cumque inventore, quibusdam corporis consequatur amet.</p>
+			</div>
+			<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+				<i class="fa fa-cloud"></i>
+				<h3>Profesional Design</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum nam numquam voluptates cumque inventore, quibusdam corporis consequatur amet.</p>
+			</div>
+			<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+				<i class="fa fa-book"></i>
+				<h3>Fresh, Cool and Clean</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum nam numquam voluptates cumque inventore, quibusdam corporis consequatur amet.</p>
+			</div>
+			<div class="col-md-3 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1200ms">
+				<i class="fa fa-gear"></i>
+				<h3>Easy to Customize</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum nam numquam voluptates cumque inventore, quibusdam corporis consequatur amet.</p>
+			</div>
+		</div>
+	</div>
+
+	<section class="action">
+		<div class="container">
+			<div class="left-text hidden-xs">
+				<h4>Amet porro numquam ratione</h4>
+				<p><em>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi ut explicabo magni sapiente.</em><br><br>Inventore at quia, vel in repellendus, cumque dolorem autem ad quidem mollitia porro blanditiis atque rerum debitis eveniet nostrum aliquam. Sint aperiam expedita sapiente amet officia quis perspiciatis adipisci, iure dolorem esse exercitationem!</p>
+			</div>
+			<div class="right-image hidden-xs"></div>
+		</div>
+	</section>
+
+	<div class="gallery">
+		<div class="text-center">
+			<h2>Portfolio</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat quod voluptate consequuntur ad quasi, dolores obcaecati ex aliquid, dolor provident </p>
+		</div>
+		<div class="container">
+			<div class="col-md-4">
+				<figure class="effect-marley">
+					<img src="img/portfolio/8.jpg" alt="" class="img-responsive"/>
+					<figcaption>
+						<h4>template logo</h4>
+						<p>Portfolio is one of the important aspects to be considered.</p>
+					</figcaption>
+				</figure>
+			</div>
+			<div class="col-md-4">
+				<figure class="effect-marley">
+					<img src="img/portfolio/9.jpg" alt="" class="img-responsive"/>
+					<figcaption>
+						<h4>muckup logo</h4>
+						<p>Portfolio is one of the important aspects to be considered.</p>
+					</figcaption>
+				</figure>
+			</div>
+			<div class="col-md-4">
+				<figure class="effect-marley">
+					<img src="img/portfolio/10.jpg" alt="" class="img-responsive"/>
+					<figcaption>
+						<h4>Persentation</h4>
+						<p>Portfolio is one of the important aspects to be considered.</p>
+					</figcaption>
+				</figure>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="col-md-4">
+				<figure class="effect-marley">
+					<img src="img/portfolio/11.jpg" alt="" class="img-responsive"/>
+					<figcaption>
+						<h4>Cards</h4>
+						<p>Portfolio is one of the important aspects to be considered.</p>
+					</figcaption>
+				</figure>
+			</div>
+			<div class="col-md-4">
+				<figure class="effect-marley">
+					<img src="img/portfolio/12.jpg" alt="" class="img-responsive"/>
+					<figcaption>
+						<h4>Broshure</h4>
+						<p>Portfolio is one of the important aspects to be considered.</p>
+					</figcaption>
+				</figure>
+			</div>
+			<div class="col-md-4">
+				<figure class="effect-marley">
+					<img src="img/portfolio/13.jpg" alt="" class="img-responsive"/>
+					<figcaption>
+						<h4>Calygraphy Font</h4>
+						<p>Portfolio is one of the important aspects to be considered.</p>
+					</figcaption>
+				</figure>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<div class="container">
+			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+				<h4>About Us</h4>
+				<p>goldenrod presents everything that is concerned with graphic design.</p>
+				<div class="contact-info">
+					<ul>
+						<li><i class="fa fa-home fa"></i>Suite 12 michigan Street </li>
+						<li><i class="fa fa-phone fa"></i> +01 234 56789</li>
+						<li><i class="fa fa-envelope fa"></i> info@example.co.id</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+				<div class="text-center">
+					<h4>Gallery</h4>
+					<ul class="sidebar-gallery">
+						<li><a href="#"><img src="img/gallery/gallrey1.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="img/gallery/gallrey2.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="img/gallery/gallrey3.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="img/gallery/gallrey4.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="img/gallery/gallrey5.jpg" alt="" /></a></li>
+						<li><a href="#"><img src="img/gallery/gallrey6.jpg" alt="" /></a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+				<div class="">
+					<h4>News letter</h4>
+					<p>Subscribe today to receive the latest Day news via email. You may unsubscribe from this service at any time</p>
+					<div class="btn-gamp">
+						<input type="email" class="form-control" id="exampleInputEmail3" placeholder="Enter Email">
+					</div>
+					<div class="btn-gamp">
+						<a type="submit" class="btn btn-default">Subscribe</a>
+					</div>
+
+			</div>
+
+		</div>
+	</footer>
+
+	<div class="sub-footer">
+		<div class="container">
+			<div class="col-md-4 col-md-offset-4">
+				<div class="copyright">
+					Copyright &copy; 2018.All Rights Reserved. by : Goldenrod.
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bx.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script>
+	wow = new WOW(
+	 {
+
+		}	)
+		.init();
+	</script>
+  </body>
+</html>
